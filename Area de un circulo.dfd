@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+' Calcula el area de un circulo de acuerdo al valor que se asigne a r '
+4
+1
+35
+' Por favor ingrese el valor de r '
+5
+1
+1
+r
+6
+1
+4
+Area
+12
+(3.14)*(r^2)
+4
+1
+44
+' El area del circulo es de ', Area , ' cm '
+1

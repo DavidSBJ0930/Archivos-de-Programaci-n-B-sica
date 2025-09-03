@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+' Halle el area de un rectangulo, de acuerdo a las medidas o valores que se den a la base y a la altura '
+4
+1
+33
+' Por favor ingrese los valores '
+5
+1
+12
+base, altura
+6
+1
+5
+Area 
+11
+base*altura
+4
+1
+52
+' El valor del area del rectangulo es ', Area,' cm '
+1
